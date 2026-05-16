@@ -1,2 +1,1 @@
-# game-booster
-Optimizador de PC para gaming en Python
+Game Booster — Optimizador de PC para gaming desarrollado en Python con interfaz gráfica (Tkinter). Limpia archivos temporales del sistema y cierra procesos en segundo plano para maximizar el rendimiento. Interfaz dark mode estilo gamer.
